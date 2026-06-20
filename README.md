@@ -162,12 +162,16 @@ My background sits at the deliberate intersection of systems engineering and bus
 <br/>
 
 <!-- ============================================ -->
-<!-- GITHUB TROPHIES SECTION -->
+<!-- MILESTONES SECTION -->
 <!-- ============================================ -->
-### 🏅 Profile Badges & Milestones
+### 🏅 Milestones & Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/badges?username=Yadni-Zade&theme=react&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=7b2cbf&text_color=c9d1d9" alt="GitHub Badges" />
+  <img src="https://img.shields.io/badge/Applied%20ML-Active-9d4edd?style=for-the-badge&logo=python&logoColor=white" alt="Applied ML" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Active-7b2cbf?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/MLOps-Roadmap-533483?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" />
+  <br/>
+  <img src="https://img.shields.io/badge/ISRO%20Hackathon%202026-Participant-3c096c?style=flat-square&logo=nasa&logoColor=white" alt="ISRO Hackathon" />
 </div>
 
 ### 📈 Contribution Activity
